@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-15T14:16:20 IST" name="Default suite" finished-at="2024-11-15T14:16:30 IST" duration-ms="10180">
+    <groups>
+    </groups>
+    <test started-at="2024-11-15T14:16:20 IST" name="Default test" finished-at="2024-11-15T14:16:30 IST" duration-ms="10180">
+      <class name="tests.TestCases">
+        <test-method is-config="true" signature="baseURI()[pri:0, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:20 IST" name="baseURI" finished-at="2024-11-15T14:16:21 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseURI -->
+        <test-method signature="create_issue()[pri:1, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:21 IST" name="create_issue" finished-at="2024-11-15T14:16:25 IST" duration-ms="4449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_issue -->
+        <test-method is-config="true" signature="baseURI()[pri:0, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:25 IST" name="baseURI" finished-at="2024-11-15T14:16:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseURI -->
+        <test-method signature="send_attachment()[pri:2, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:25 IST" name="send_attachment" finished-at="2024-11-15T14:16:29 IST" duration-ms="3257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_attachment -->
+        <test-method is-config="true" signature="baseURI()[pri:0, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:29 IST" name="baseURI" finished-at="2024-11-15T14:16:29 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseURI -->
+        <test-method signature="update_issue()[pri:3, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:29 IST" name="update_issue" finished-at="2024-11-15T14:16:29 IST" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_issue -->
+        <test-method is-config="true" signature="baseURI()[pri:0, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:29 IST" name="baseURI" finished-at="2024-11-15T14:16:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseURI -->
+        <test-method signature="delete_issue()[pri:4, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:29 IST" name="delete_issue" finished-at="2024-11-15T14:16:30 IST" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_issue -->
+        <test-method is-config="true" signature="baseURI()[pri:0, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:30 IST" name="baseURI" finished-at="2024-11-15T14:16:30 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseURI -->
+        <test-method signature="delete_validation()[pri:5, instance:tests.TestCases@2df6226d]" started-at="2024-11-15T14:16:30 IST" name="delete_validation" finished-at="2024-11-15T14:16:30 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_validation -->
+      </class> <!-- tests.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
